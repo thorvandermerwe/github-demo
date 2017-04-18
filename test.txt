@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Test file bla bla
 extra line
+=======
+Test file modified online.
+>>>>>>> efa516bc0e1660aeab4d757edb52f2827175517f
